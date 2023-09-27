@@ -1,0 +1,47 @@
+_repo: The-chronicles-of-fairy-land_71700
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Dunlop, M.
+    gutenberg_agent_id: '56338'
+    url: http://www.gutenberg.org/2009/agents/56338
+  - agent_name: Kirk, Maria Louise
+    aliases:
+    - Kirk, M. L. (Maria Louise)
+    - Kirk, Maria L.
+    birthdate: 1860
+    deathdate: 1938
+    gutenberg_agent_id: '9513'
+    url: http://www.gutenberg.org/2009/agents/9513
+    wikipedia: https://en.wikipedia.org/wiki/Maria_Louise_Kirk
+creator:
+  author:
+    agent_name: Hume, Fergus
+    aliases:
+    - Hume, Ferguson Wright
+    - Hume, Fergus W. (Ferguson Wright)
+    birthdate: 1859
+    deathdate: 1932
+    gutenberg_agent_id: '1057'
+    url: http://www.gutenberg.org/2009/agents/1057
+    wikipedia: https://en.wikipedia.org/wiki/Fergus_Hume
+description: ''
+gutenberg_issued: '2023-09-21'
+identifiers:
+  gutenberg: '71700'
+language: en
+pgterms:marc904: https://archive.org/details/chroniclesoffair00hume/mode/2up
+pgterms:marc905: 20200803085159hume
+pgterms:marc906: '1911'
+pgterms:marc907: US
+production_note: Carlos Colon, Gísli Valgeirsson, The Library of Congress and the
+  Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced
+  from images generously made available by The Internet Archive/American Libraries.)
+publication_note: '  $aPhiladelphia :$bJ. B. Lippincott Company, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The chronicles of fairy land
+url: http://www.gutenberg.org/ebooks/71700
