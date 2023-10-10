@@ -14,6 +14,9 @@ contributor:
     gutenberg_agent_id: '9513'
     url: http://www.gutenberg.org/2009/agents/9513
     wikipedia: https://en.wikipedia.org/wiki/Maria_Louise_Kirk
+covers:
+- cover_type: archival
+  image_path: 71700-h/images/cover.jpg
 creator:
   author:
     agent_name: Hume, Fergus
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1057
     wikipedia: https://en.wikipedia.org/wiki/Fergus_Hume
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71700#The-chronicles-of-fairy-land
 gutenberg_issued: '2023-09-21'
 identifiers:
   gutenberg: '71700'
